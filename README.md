@@ -11,7 +11,7 @@ Part 2: https://www.youtube.com/watch?v=yZvUvWIW5pk
 
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/eik-lab/pdm_bearing/streamlit_cloud/bearing_app/main.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/eik-lab/dogecoin_calculator/main/app.py)
 ## Run Locally
 ### Requirements
 
